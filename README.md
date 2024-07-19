@@ -20,17 +20,16 @@ A Spring Boot backend application for a Library Management System built using RE
 
 Before you begin, ensure you have the following installed:
 
-- **Java Development Kit (JDK 17 or higher):** [https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-- **MySQL Server:** [https://dev.mysql.com/downloads/mysql/](https://dev.mysql.com/downloads/mysql/)
-- **Git:** [https://git-scm.com/](https://git-scm.com/)
-- **Postman (Recommended):** [https://www.postman.com/downloads/](https://www.postman.com/downloads/)
-
+- **Java Development Kit (JDK 17 or higher)** 
+- **MySQL Server** 
+- **Git** 
+- **Postman (Recommended)**
 ### Installation
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone <your-github-repository-url>
+   git clone https://github.com/ViscousGuy/library-management-system.git
    cd library-management-system
    ```
 
