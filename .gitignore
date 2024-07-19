@@ -1,0 +1,33 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE Files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# VS Code (if you're using it)
+.vscode/
+
+# OS-specific files
+Thumbs.db
+*.DS_Store
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Other
+mvnw
+mvnw.cmd
+application.properties
